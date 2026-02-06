@@ -1,6 +1,6 @@
 
 🚗 Driver Fatigue Detection using Computer Vision (OpenCV)
-📌 Overview
+Overview
 
 This project implements a simple real-time Driver Fatigue Detection System using computer vision techniques. The system monitors the driver through a webcam and detects prolonged eye closure to identify drowsiness. When fatigue is detected, an alert sound is triggered to warn the driver.
 
